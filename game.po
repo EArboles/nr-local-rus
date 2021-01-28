@@ -253,7 +253,7 @@ msgstr "неправильный угол"
 
 msgctxt "banner_expain_ignore"
 msgid "Ignored join requests can be authorized in the server management window."
-msgstr "Игнорируемые запросы на вход могут быть авторизованы в окне администрирования сервера.."
+msgstr "Игнорируемые запросы на вход могут быть авторизованы в окне администрирования сервера."
 
 msgctxt "banner_join_friend"
 msgid "{} wants to join your game."
@@ -269,11 +269,11 @@ msgstr "{} присоединился к игре."
 
 msgctxt "banner_prompt_client_join_anon"
 msgid "Do you want to join a game hosted by {}? Your current game will be autosaved and you will quit the current server."
-msgstr "Хотите присоединиться к игре {}? Ваша текущая игра будет автосохранена и вы покините текущий сервер"
+msgstr "Хотите присоединиться к игре {}? Ваша текущая игра будет автосохранена и вы покинете текущий сервер."
 
 msgctxt "banner_prompt_client_join_user"
 msgid "{0} proposes you to join a game hosted by {1}. Do you want to join? Your current game will be autosaved and you will quit the current server."
-msgstr "{0} предлагает вам присоединиться к игре {1}. Вы хотите присоединиться? Текущая игра будет автосохранена и вы выйдете с текущего сервера."
+msgstr "{0} предлагает вам присоединиться к игре {1}. Вы хотите присоединиться? Текущая игра будет автосохранена, и вы выйдете с текущего сервера."
 
 msgctxt "banner_prompt_game_join_anon"
 msgid "Do you want to join a game hosted by {}? Your current game will be autosaved."
@@ -293,11 +293,11 @@ msgstr "{0} предлагает вам присоединиться к игре
 
 msgctxt "banner_prompt_server_join_anon"
 msgid "Do you want to join a game hosted by {}? WARNING: You are currently hosting a game. All your connected players will be disconnected. Your current game will be autosaved."
-msgstr "Do you want to join a game hosted by {}? WARNING: You are currently hosting a game. All your connected players will be disconnected. Your current game will be autosaved."
+msgstr "Хотите присоединиться к игре {}? ВНИМАНИЕ: Вы хост. Все присоединенные игроки будут отключены. Ваша текущая игра будет автосохранена."
 
 msgctxt "banner_prompt_server_join_user"
 msgid "{0} proposes you to join a game hosted by {1}. Do you want to join? WARNING: You are currently hosting a game. All your connected players will be disconnected. Your current game will be autosaved."
-msgstr "{0} proposes you to join a game hosted by {1}. Do you want to join? WARNING: You are currently hosting a game. All your connected players will be disconnected. Your current game will be autosaved."
+msgstr "{0} предлагает вам присоединиться к игре {1}. Хотите присоединиться? ВНИМАНИЕ: Вы хост. Все присоединенные игроки будут отключены. Ваша текущая игра будет автосохранена."
 
 msgctxt "bill_tab_client"
 msgid "By me"
@@ -305,11 +305,11 @@ msgstr "By me"
 
 msgctxt "bill_tab_global"
 msgid "Global"
-msgstr "Global"
+msgstr "Глобальное"
 
 msgctxt "bill_tab_selection"
 msgid "Selection"
-msgstr "Selection"
+msgstr "Выбранное"
 
 msgctxt "build"
 msgid "Build"
@@ -369,7 +369,7 @@ msgstr "Один или более выделенных путей уже пос
 
 msgctxt "conflict_map_hit"
 msgid "water or road hits"
-msgstr "колизия с водой или дорогой"
+msgstr "коллизия с водой или дорогой"
 
 msgctxt "conflicts"
 msgid "Conflicts"
@@ -377,7 +377,7 @@ msgstr "Конфликты"
 
 msgctxt "conflicts_pop_desc"
 msgid "One or more tracks have conflicts and cannot be constructed. Move, edit or delete all tracks marked in red."
-msgstr "Один или более путей конфликтуют и не могут быть построены. Передвиньте, измените или удалить все пути выделенные красным"
+msgstr "Один или более путей конфликтуют и не могут быть построены. Передвиньте, измените или удалить все пути выделенные красным."
 
 msgctxt "connecting_elip"
 msgid "Connecting..."
@@ -389,7 +389,7 @@ msgstr "Соединение запрещено"
 
 msgctxt "construct_no_bps"
 msgid "There are no pending track or station blueprints to build"
-msgstr "Нету планов путей или станций ожидающих строительства"
+msgstr "Нет планов путей или станций ожидающих строительства"
 
 msgctxt "construction_conflicts_cash"
 msgid "Not enough money for construction"
@@ -409,7 +409,7 @@ msgstr "Авторы"
 
 msgctxt "credits_acknowledgments"
 msgid "Acknowledgments"
-msgstr "Acknowledgments?Лицензия?"
+msgstr "Acknowledgments"
 
 msgctxt "credits_art"
 msgid "Art"
@@ -521,7 +521,7 @@ msgstr "Монитор:"
 
 msgctxt "display_screen_leave_alone"
 msgid "Do not set"
-msgstr "Не установлено"
+msgstr "Не выбран"
 
 msgctxt "done"
 msgid "Done"
@@ -561,7 +561,7 @@ msgstr "Создать новую платформу"
 
 msgctxt "editor_tip_add_esc"
 msgid "Esc to go to edit mode"
-msgstr "Esc для режима изменения"
+msgstr "Esc чтобы войти в режим редактирования"
 
 msgctxt "editor_tip_add_left1"
 msgid "Left click on the existing end of track control points to continue an existing track"
@@ -573,7 +573,7 @@ msgstr "Левый клик где-нибудь, чтобы создат нов�
 
 msgctxt "editor_tip_branch_esc"
 msgid "Esc to go to edit mode"
-msgstr "Esc to go to edit mode"
+msgstr "Esc чтобы войти в режим редактирования"
 
 msgctxt "editor_tip_branch_left"
 msgid "Left click to create the branch"
@@ -581,35 +581,35 @@ msgstr "Левый клик, чтобы создать новое ответвл
 
 msgctxt "editor_tip_branch_mouse"
 msgid "Hover the mouse cursor near an existing track to see a new track branch"
-msgstr "Hover the mouse cursor near an existing track to see a new track branch"
+msgstr "Наведите курсор мыши около существующего пути, чтобы увидеть новое ответвление."
 
 msgctxt "editor_tip_branch_shift"
 msgid "Press shift for opposite direction"
-msgstr "Press shift for opposite direction"
+msgstr "Нажмите Shift для обратного направления"
 
 msgctxt "editor_tip_cont_esc"
 msgid "Esc to cancel"
-msgstr "Esc to cancel"
+msgstr "Esc для отмены"
 
 msgctxt "editor_tip_cont_left"
 msgid "Left click to create a new track segment. Hold Shift to keep creating more segments."
-msgstr "Left click to create a new track segment. Hold Shift to keep creating more segments."
+msgstr "Левый клик, чтобы создать новый сегмент пути. Удерживайте Shift для создания большего количества."
 
 msgctxt "editor_tip_cont_mouse"
 msgid "Hover the mouse cursor over an existing end of track to see how it would look linked with your current track"
-msgstr "Hover the mouse cursor over an existing end of track to see how it would look linked with your current track"
+msgstr "Наведите курсор мыши над существующим концом пути, чтобы увидеть, как путь будет соединён с текущим путём."
 
 msgctxt "editor_tip_create_del"
 msgid "Del to delete selected tracks"
-msgstr "Del to delete selected tracks"
+msgstr "Del для удаления выбранных путей"
 
 msgctxt "editor_tip_create_drag"
 msgid "Drag any selected track control point to move the selection"
-msgstr "Drag any selected track control point to move the selection"
+msgstr "Перетащите любую выбранную ключевую точку путей, чтобы сдвинуть выделенное."
 
 msgctxt "editor_tip_create_esc"
 msgid "Esc to cancel selection"
-msgstr "Esc to cancel selection"
+msgstr "Esc для отмены выбора"
 
 msgctxt "editor_tip_create_left1"
 msgid "Left click on track control points to select"
@@ -621,15 +621,15 @@ msgstr "Левый клик на имя станции, чтобы измени�
 
 msgctxt "editor_tip_create_left3"
 msgid "Left click on track control points to reset selection"
-msgstr "Левй клик на ключевые точки путей для сброса выбора"
+msgstr "Левый клик на ключевые точки путей для сброса выбора"
 
 msgctxt "editor_tip_create_sleft"
 msgid "Shift left click to add or remove points from selection"
-msgstr "Shift + левый клик для добавления или удаления точек из выбора"
+msgstr "Shift + Левый клик для добавления или удаления точек из выбора."
 
 msgctxt "editor_tip_depot_esc"
 msgid "Esc to go to edit mode"
-msgstr "Esc to go to edit mode"
+msgstr "Esc чтобы войти в режим редактирования."
 
 msgctxt "editor_tip_depot_fin_esc"
 msgid "Esc to cancel"
@@ -637,7 +637,7 @@ msgstr "Esc для отмены"
 
 msgctxt "editor_tip_depot_fin_left"
 msgid "Left click to finish creating a new depot"
-msgstr "Левый клик, чтобы окончить создание депо"
+msgstr "Левый клик, чтобы завершить создание депо"
 
 msgctxt "editor_tip_depot_left"
 msgid "Left click to create a new depot"
@@ -645,7 +645,7 @@ msgstr "Левый клик для создания депо"
 
 msgctxt "editor_tip_link_esc"
 msgid "Esc to go to edit mode"
-msgstr "Esc to go to edit mode"
+msgstr "Esc чтобы войти в режим редактирования"
 
 msgctxt "editor_tip_link_left"
 msgid "Left click to link tracks"
@@ -665,11 +665,11 @@ msgstr "Отпустите левую кнопку, чтобы перестат�
 
 msgctxt "editor_tip_rect_left"
 msgid "Release the left button to end rectangle selection"
-msgstr "Release the left button to end rectangle selection"
+msgstr "Отпустите левую кнопку, чтобы закончить выделенние."
 
 msgctxt "editor_tip_station_esc"
 msgid "Esc to go to edit mode"
-msgstr "Esc для режима изменения"
+msgstr "Esc чтобы войти в режим редактирования"
 
 msgctxt "editor_tip_station_fin_esc"
 msgid "Esc to cancel"
@@ -765,11 +765,11 @@ msgstr "Присоединился"
 
 msgctxt "friend_state_connected_here"
 msgid "Conn. here"
-msgstr "Conn. here"
+msgstr "Присоед. сюда"
 
 msgctxt "friend_state_connected_other"
 msgid "Conn. elsewhere"
-msgstr "Conn. elsewhere"
+msgstr "Присоед. куда-то"
 
 msgctxt "friend_state_hosting"
 msgid "Hosting"
@@ -789,7 +789,7 @@ msgstr "Онлайн"
 
 msgctxt "friend_state_snooze"
 msgid "Snooze"
-msgstr "Snooze"
+msgstr "Спит"
 
 msgctxt "friends"
 msgid "Friends"
@@ -797,7 +797,7 @@ msgstr "Друзья"
 
 msgctxt "global_blueprint_bill"
 msgid "Global blueprint bill"
-msgstr "Global blueprint bill"
+msgstr "Итоговый план"
 
 msgctxt "host_game"
 msgid "Host game"
@@ -857,7 +857,7 @@ msgstr "Вмешательство"
 
 msgctxt "invalid_location"
 msgid "Invalid"
-msgstr "Invalid"
+msgstr "Неправильное"
 
 msgctxt "join"
 msgid "Join"
@@ -901,7 +901,7 @@ msgstr "Невозможно найти путь к началу линии!"
 
 msgctxt "line_n_stops"
 msgid "{0}, {1} stops"
-msgstr "{0}, {1} stops"
+msgstr "{0}, {1} остановка"
 
 msgctxt "line_new_stop_cell"
 msgid "New stops are inserted here"
@@ -969,7 +969,7 @@ msgstr "Минимальный интервал (мм:сс). (mm:ss):"
 
 msgctxt "lineeditor_bp_station"
 msgid "Build your tracks blueprint to enable this platform"
-msgstr "Build your tracks blueprint to enable this platform "
+msgstr "Постройте ваши пути, чтобы активировать эту платформу"
 
 msgctxt "lineeditor_code"
 msgid "Code:"
@@ -997,7 +997,7 @@ msgstr "Добавить остановки на линию"
 
 msgctxt "lineeditor_tooltip_add_waypoint_mode"
 msgid "Add waypoints to line"
-msgstr "Добавить вэйпоинту на линию"
+msgstr "Добавить вэйпоинты на линию"
 
 msgctxt "lineeditor_tooltip_del"
 msgid "Delete selected line"
@@ -1061,7 +1061,7 @@ msgstr "Не одобрен"
 
 msgctxt "loan_contract_monthly_payment"
 msgid "Monthly payment:"
-msgstr "Monthly payment:"
+msgstr "Месячная плата:"
 
 msgctxt "loan_contract_rate"
 msgid "APR:"
@@ -1069,7 +1069,7 @@ msgstr "APR:"
 
 msgctxt "loan_contract_total_interest"
 msgid "{} months interest:"
-msgstr "{} months interest:"
+msgstr "{} месячный процент:"
 
 msgctxt "loan_contract_years"
 msgid "Years:"
@@ -1077,7 +1077,7 @@ msgstr "Годы:"
 
 msgctxt "loan_created_on"
 msgid "Created on:"
-msgstr "Created on:"
+msgstr "Взят:"
 
 msgctxt "loan_n"
 msgid "Loan {}"
@@ -1085,15 +1085,15 @@ msgstr "Кредит {}"
 
 msgctxt "loan_need_admin"
 msgid "Only admins can take loans"
-msgstr "Only admins can take loans"
+msgstr "Только админы могут взять кредиты"
 
 msgctxt "loan_paid_interest"
 msgid "Paid interest:"
-msgstr "Paid interest:"
+msgstr "Заплаченные проценты:"
 
 msgctxt "loan_pay_early"
 msgid "Pay early ${}"
-msgstr "Pay early ${}"
+msgstr "Заплатить досрочно ${}"
 
 msgctxt "loan_payments"
 msgid "Payments:"
@@ -1113,7 +1113,7 @@ msgstr "${0} at {1:.3}% APR in {2} years"
 
 msgctxt "local_mod"
 msgid "Local mod to upload:"
-msgstr "Local mod to upload:"
+msgstr "Загрузить локальный мод:"
 
 msgctxt "lonely_station"
 msgid "Lonely Station"
@@ -1129,11 +1129,11 @@ msgstr "Английские"
 
 msgctxt "map_names_native"
 msgid "Native"
-msgstr "Native"
+msgstr "Родные"
 
 msgctxt "map_names_prio"
 msgid "Map names priority:"
-msgstr "Map names priority:"
+msgstr "Имена на карте:"
 
 msgctxt "matches_n_0"
 msgid "0 coincidencias"
@@ -1181,7 +1181,7 @@ msgstr "Steamworks UGC"
 
 msgctxt "mod_uploader_busy"
 msgid "Uploading mod..."
-msgstr "Uploading mod..."
+msgstr "Загружаем мод..."
 
 msgctxt "mod_uploader_info"
 msgid "The mod uploader is a tool for mod developers. If you want to use mods when playing the game, subscribe to them in the Steam Workshop and enable them when creating a new game."
@@ -1189,19 +1189,19 @@ msgstr "Загрузчик мододов - это инструмент для �
 
 msgctxt "mod_uploader_info_guide"
 msgid "Mod development guide"
-msgstr "Mod development guide"
+msgstr "Руководство по созданию модов"
 
 msgctxt "mod_uploader_info_open_browser"
 msgid "Visit Workshop"
-msgstr "Visit Workshop"
+msgstr "Посетить Workshop"
 
 msgctxt "mod_uploader_info_player_workshop"
 msgid "Manage Workshop"
-msgstr "Manage Workshop"
+msgstr "Управлять Workshop"
 
 msgctxt "mod_uploader_info_use_uploader"
 msgid "Use Mod Uploader"
-msgstr "Use Mod Uploader"
+msgstr "Использовать Mod Uploader"
 
 msgctxt "mod_uploader_new_mod"
 msgid "New mod"
@@ -1209,15 +1209,15 @@ msgstr "Новый мод"
 
 msgctxt "mod_uploader_not_in_game"
 msgid "The mod uploader cannot be used with a loaded game."
-msgstr "The mod uploader cannot be used with a loaded game."
+msgstr "Mod uploader не может быть использован внутри игры."
 
 msgctxt "mod_uploader_update_mod"
 msgid "Update mod"
-msgstr "Update mod"
+msgstr "Обновить мод"
 
 msgctxt "mod_uploader_view_ws_mod"
 msgid "View mod in Workshop"
-msgstr "View mod in Workshop"
+msgstr "Просмотреть мод в Workshop"
 
 msgctxt "mod_version"
 msgid "Version:"
@@ -1353,11 +1353,11 @@ msgstr "Блокировать"
 
 msgctxt "mp_action_deny"
 msgid "Deny"
-msgstr "Deny"
+msgstr "Запретить"
 
 msgctxt "mp_action_disconnect"
 msgid "Disconnect"
-msgstr "Отстоединиться"
+msgstr "Отсоединиться"
 
 msgctxt "mp_action_forget"
 msgid "Forget"
@@ -1473,7 +1473,7 @@ msgstr "Uploader"
 
 msgctxt "osm_admin_level_10"
 msgid "Quarter"
-msgstr "Quarter"
+msgstr "Квартал"
 
 msgctxt "osm_admin_level_2"
 msgid "Country"
@@ -1541,15 +1541,15 @@ msgstr "Пассажиры"
 
 msgctxt "pax_waiting"
 msgid "Pax: {0} / {1}"
-msgstr "Пасы: {0} / {1}"
+msgstr "Пас: {0} / {1}"
 
 msgctxt "pax_waiting_detail"
 msgid "New pax: {0} / Transfer pax: {1} "
-msgstr "New pax: {0} / Transfer pax: {1} "
+msgstr "Новые пас: {0} / Перемещенные пас: {1} "
 
 msgctxt "paxlist_groupby_dest"
 msgid "Group by destination"
-msgstr "Group by destination"
+msgstr "Группировать по пункту назначения"
 
 msgctxt "paxlist_groupby_none"
 msgid "Show all"
@@ -1557,7 +1557,7 @@ msgstr "Показать всё"
 
 msgctxt "paxlist_groupby_origin"
 msgid "Group by origin"
-msgstr "Group by origin"
+msgstr "Групировать по началу пути"
 
 msgctxt "paxlist_groupby_plan"
 msgid "Show trips"
@@ -1917,7 +1917,7 @@ msgstr "Empty mass:"
 
 msgctxt "train_info_force"
 msgid "Tractive force:"
-msgstr "Tractive force:"
+msgstr "Тяга:"
 
 msgctxt "train_info_line"
 msgid "Line:"
@@ -1929,7 +1929,7 @@ msgstr "Локация:"
 
 msgctxt "train_info_maintenance_cost"
 msgid "Maintenace cost:"
-msgstr "Стоимость обслуживания:"
+msgstr "Обслуживание:"
 
 msgctxt "train_info_maintenance_cost_f"
 msgid "${} per day"
@@ -1953,7 +1953,7 @@ msgstr "Пас / макс:"
 
 msgctxt "train_info_running_cost"
 msgid "Running cost:"
-msgstr "Стоимость эксплуатации:"
+msgstr "Эксплуатация:"
 
 msgctxt "train_info_running_cost_f"
 msgid "${:.4} per km per pax"
@@ -1969,11 +1969,11 @@ msgstr "Status:"
 
 msgctxt "train_info_status_circulation"
 msgid "Running"
-msgstr "Running"
+msgstr "Запущен"
 
 msgctxt "train_info_status_in_storage"
 msgid "Stored"
-msgstr "Stored"
+msgstr "Хранится"
 
 msgctxt "train_info_status_lost_or_bad_orders"
 msgid "Lost or bad orders"
@@ -2009,11 +2009,11 @@ msgstr "Все Линии"
 
 msgctxt "train_list_filter_all_models"
 msgid "All models"
-msgstr "All models"
+msgstr "Все модели"
 
 msgctxt "train_model_edit"
 msgid "Model:"
-msgstr "Model:"
+msgstr "Модель:"
 
 msgctxt "train_n_cars_edit"
 msgid "Cars:"
@@ -2053,7 +2053,7 @@ msgstr "Удалить все слоты"
 
 msgctxt "train_sched_clear_day"
 msgid "Delete all {0} slots from train {1}"
-msgstr "Delete all {0} slots from train {1}""
+msgstr "Delete all {0} slots from train {1}"
 
 msgctxt "train_sched_copy_day"
 msgid "Copy all {0} slots from train {1}"
@@ -2261,7 +2261,7 @@ msgstr "Требуется файл иконки"
 
 msgctxt "ugc_valid_title_req"
 msgid "Title is required"
-msgstr "Требуется название
+msgstr "Требуется название"
 
 msgctxt "ugc_valid_title_too_long"
 msgid "Title is too long"
